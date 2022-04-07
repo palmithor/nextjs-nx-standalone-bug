@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "nextjs-nx-standalone-bug": "apps/nextjs-nx-standalone-bug"
+  }
+}
